@@ -1,2 +1,2 @@
 # codeBuzz
-45 days of coding in C++ :)
+C++, Python and Java practice Code :)
